@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">SampleMVP</string>
+    <string name="app_name">SampleMVVM</string>
+    <string name="lb_btn_increment">Click Here!</string>
+    <string name="lb_tv_counter">0</string>
 </resources>

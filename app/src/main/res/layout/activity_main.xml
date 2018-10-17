@@ -11,13 +11,13 @@
         android:layout_height="wrap_content"
         android:layout_centerInParent="true"
         style="@style/Base.Widget.AppCompat.Button.Colored"
-        android:text="Click Here!"/>
+        android:text="@string/lb_btn_increment" />
 
     <TextView
         android:id="@+id/counterTextView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="0"
+        android:text="@string/lb_tv_counter"
         android:layout_below="@id/clickButton"
         android:layout_centerHorizontal="true"
         android:layout_margin="20dp"
